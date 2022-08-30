@@ -5,5 +5,9 @@ ticket 2 mode 1
 ticket 2 mode 2
 from new laptop
 added something from user1
+<<<<<<< Updated upstream
 something additional added
 and than again something added
+=======
+added again after many months
+>>>>>>> Stashed changes
